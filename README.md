@@ -3,4 +3,4 @@
 - 😄 Call me Tung
 - ⚡ Check out my blog [AI Engineer](https://aiengineer.net/)
 - 📫 Reach me via [email](mailto:tungdao17@gmail.com) or [LinkedIn](https://www.linkedin.com/in/tungdao17/)
-- 🌱 Currently practicing [planche](https://en.wikipedia.org/wiki/Planche_(exercise))
+- 🌱 I'm currently practicing [planche](https://en.wikipedia.org/wiki/Planche_(exercise))
